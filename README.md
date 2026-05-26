@@ -4,6 +4,8 @@ Full Stack Developer with a focus on building functional, well-structured web ap
 
 Currently completing a Full Stack Web Development bootcamp, where I've built real-world projects applying modern technologies and industry best practices.
 
+What drives me is simple: **the act of building things**. There's something about taking an idea and turning it into something real and functional that keeps me motivated every day. I don't limit myself to a specific type of project — I'm open to any challenge that helps me grow, learn new technologies, and sharpen my skills.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -36,7 +38,7 @@ Currently completing a Full Stack Web Development bootcamp, where I've built rea
 ### 🛒 Nexus Shop
 > Tech e-commerce platform built as a full-stack project.
 
-A complete e-commerce application with product catalog, authentication, shopping cart, and order management. Designed with a clean, modern UI.
+A complete e-commerce application with product catalog, authentication, shopping cart, and order management. Designed with a clean, modern UI inspired by Apple and Xiaomi.
 
 **Tech:** Next.js 15 · Tailwind CSS v4 · Express · TypeORM · PostgreSQL · JWT
 
@@ -63,3 +65,9 @@ A complete e-commerce application with product catalog, authentication, shopping
 [![Email](https://img.shields.io/badge/alejandromirena.13@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alejandromirena.13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-1aa20634b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alejandro-Mirena)
+
+💬 I'm always open to new opportunities, collaborations, or just a good conversation about tech. If you have a project in mind or want to connect — **feel free to reach out!**
+
+
+
+
