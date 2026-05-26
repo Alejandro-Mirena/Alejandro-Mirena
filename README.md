@@ -36,7 +36,7 @@ Currently completing a Full Stack Web Development bootcamp, where I've built rea
 ### 🛒 Nexus Shop
 > Tech e-commerce platform built as a full-stack project.
 
-A complete e-commerce application with product catalog, authentication, shopping cart, and order management. Designed with a clean, modern UI inspired by Apple and Xiaomi.
+A complete e-commerce application with product catalog, authentication, shopping cart, and order management. Designed with a clean, modern UI.
 
 **Tech:** Next.js 15 · Tailwind CSS v4 · Express · TypeORM · PostgreSQL · JWT
 
