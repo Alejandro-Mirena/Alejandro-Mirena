@@ -61,5 +61,5 @@ A complete e-commerce application with product catalog, authentication, shopping
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/alejandromirena.13@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alejandromirena.13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandromirena)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlejandroMirena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-1aa20634b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alejandro-Mirena)
