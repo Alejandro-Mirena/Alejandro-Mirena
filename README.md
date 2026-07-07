@@ -73,6 +73,7 @@ A complete e-commerce application with product catalog, authentication, shopping
 - Shopping cart with quantity management and per-user persistence
 - Discount and on-sale product system
 - Fully responsive, mobile-first design
+- [View Repository](https://nexus-ecommerce-kappa.vercel.app/)
 
 ---
 
