@@ -6,9 +6,9 @@
 
 *I build things that actually work — from clean APIs to responsive, user-friendly interfaces.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-1aa20634b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-mirena-hidalgo)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandromirena.13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alejandromirena.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-alejandro-two.vercel.app/)
 
 </div>
 
@@ -147,7 +147,7 @@ Designed and built from scratch with a custom design system, 5 pages with App Ro
 
 **Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · Framer Motion · Formspree
 
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://alejandromirena.dev)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-alejandro-two.vercel.app/)
 
 </td>
 </tr>
@@ -172,6 +172,6 @@ Designed and built from scratch with a custom design system, 5 pages with App Ro
 💬 Always open to new opportunities, collaborations, or a good conversation about tech.<br/>
 If you have a project in mind or just want to connect — **feel free to reach out!**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-1aa20634b/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-mirena-hidalgo)
 
 </div>
