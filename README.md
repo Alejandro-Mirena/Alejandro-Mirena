@@ -6,7 +6,7 @@
 
 *I build things that actually work — from clean APIs to responsive, user-friendly interfaces.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-mirena-hidalgo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-hidalgo)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandromirena.13@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-alejandro-two.vercel.app/)
 
@@ -133,21 +133,22 @@ Complete e-commerce with product catalog, authentication, shopping cart and orde
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio
-> Personal site — where everything comes together.
+### 🖤 NOVUS Store
+> Fashion e-commerce — frontend only, visual-first design.
 
-Designed and built from scratch with a custom design system, 5 pages with App Router, and full ES/EN internationalization.
+Landing and storefront for a clothing brand with a Greco-Roman aesthetic. Built with a strong focus on visual identity, clean layout and smooth user experience.
 
 **Highlights:**
-- Custom color palette + typography system
-- Framer Motion animations throughout
-- ES/EN toggle with React Context
-- Contact form via Formspree
-- Fully responsive and optimized
+- Frontend-only project — no backend
+- Distinctive visual identity with custom design system
+- Smooth animations and transitions
+- Fully responsive across all devices
+- Clean product browsing experience
 
-**Tech:** Next.js 16 · TypeScript · Tailwind CSS v4 · Framer Motion · Formspree
+**Tech:** Next.js · TypeScript · Tailwind CSS · Framer Motion
 
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-alejandro-two.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://novus-store-seven.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alejandro-Mirena/novus-store)
 
 </td>
 </tr>
@@ -172,6 +173,6 @@ Designed and built from scratch with a custom design system, 5 pages with App Ro
 💬 Always open to new opportunities, collaborations, or a good conversation about tech.<br/>
 If you have a project in mind or just want to connect — **feel free to reach out!**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-mirena-hidalgo)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-hidalgo)
 
 </div>
