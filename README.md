@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-hidalgo)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandromirena.13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-alejandro-two.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/%3E__-alejandro.dev-F2B84B?style=for-the-badge&labelColor=0A0D12&logoColor=F2B84B)](https://portafolio-alejandro-two.vercel.app/)
 
 </div>
 
@@ -173,6 +173,6 @@ Landing and storefront for a clothing brand with a Greco-Roman aesthetic. Built 
 💬 Always open to new opportunities, collaborations, or a good conversation about tech.<br/>
 If you have a project in mind or just want to connect — **feel free to reach out!**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mirena-hidalgo)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-5EEAD4?style=for-the-badge&logo=linkedin&logoColor=0A0D12)](https://www.linkedin.com/in/alejandro-mirena-hidalgo)
 
 </div>
